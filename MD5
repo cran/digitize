@@ -1,0 +1,7 @@
+3a2dbb7b53c3cf4857df6839917b0148 *DESCRIPTION
+270fad96a0759faa042b430bfb043def *NAMESPACE
+16fec56909b209b58fc414c3ef689bec *R/functions.r
+f90193d79edac92bd84c4ef3071224dc *man/Calibrate.Rd
+a9d1430f0f0a89e61f1882f75e2af67a *man/DigitData.Rd
+95ad27c3ac8344e49f157809e0ba08e5 *man/ReadAndCal.Rd
+1f453b94531fafcb921569f1b3ea35df *man/ReadImg.Rd
